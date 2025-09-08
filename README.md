@@ -1,7 +1,9 @@
 # Я не знаю что тут писать.
-<p align="center">
-  <img width="400" height="250" src="[C:\Users\is\Desktop\git_Васильева\png\2](https://img0.liveinternet.ru/images/attach/d/2/145/148/145148444_koshkapngyayayayaya2.png)">
-</p>
-!## Это котенок(https://i.pinimg.com/736x/8f/d6/f0/8fd6f0979a12c19d0dd54c10a82eacaa.jpg)
-! #Это Они из дбд (https://avatars.mds.yandex.net/i?id=474dec16d3d3576810b7087196d5b5a5_l-12606451-images-thumbs&n=13)
+## Это котики
+- 1. Большой
+<img width="800" height="343" alt="image" src="https://github.com/user-attachments/assets/090f8d96-6f1f-4a04-8cd8-1309359cbf5a" />
+- 2. Я не помню
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/6852b78a-3e9b-4377-8d2e-ad5aed97a26d" />
+- 3. Смешной
+
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d20365af-4c7e-485e-8d1c-48ff181c0fdc" />
